@@ -17,3 +17,7 @@ Hi👋 I'm Vishalini P G, An Aspiring Data Scientist from India
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishalinipg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<img src="https://raw.githubusercontent.com/vishalinipg/vishalinipg/output/snake.svg" alt="Snake animation" />
+
+###
