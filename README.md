@@ -9,9 +9,9 @@ Hi👋 I'm Vishalini P G, An Aspiring Data Scientist from India
 
 # 📊 GitHub Stats:
 <div align="left" style="display: flex; justify-content: left; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="130"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalinipg&theme=dark&hide_border=false" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="120"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalinipg&theme=dark&hide_border=false" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
 </div>
 
 <picture>
