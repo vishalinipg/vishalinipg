@@ -10,8 +10,10 @@ Hi👋 I'm Vishalini P G, An Aspiring Data Scientist from India
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
 </div>
 
+<div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalinipg/vishalinipg/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalinipg/vishalinipg/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vishalinipg/vishalinipg/output/github-snake.svg" />
 </picture>
+</div>
