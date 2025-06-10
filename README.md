@@ -9,27 +9,27 @@
 ###
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/35/java-coffee-cup-logo.png" style="margin: 10px;" alt="Java" />
-  <img src="https://img.icons8.com/fluency/35/python.png" style="margin: 10px;" alt="Python" />
-  <img src="https://img.icons8.com/fluency/35/microsoft-excel-2019.png" style="margin: 10px;" alt="Excel" />
-  <img src="https://img.icons8.com/color/35/amazon-web-services.png" style="margin: 10px;" alt="AWS" />
-  <img src="https://img.icons8.com/fluency/35/google-cloud.png" style="margin: 10px;" alt="Google Cloud" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" style="margin: 10px;" alt="Azure DevOps" />
-  <img src="https://img.icons8.com/fluency/35/github.png" style="margin: 10px;" alt="GitHub" />
+  <img src="https://img.icons8.com/fluency/40/java-coffee-cup-logo.png" style="margin: 10px;" alt="Java" />
+  <img src="https://img.icons8.com/fluency/40/python.png" style="margin: 10px;" alt="Python" />
+  <img src="https://img.icons8.com/fluency/40/microsoft-excel-2019.png" style="margin: 10px;" alt="Excel" />
+  <img src="https://img.icons8.com/color/40/amazon-web-services.png" style="margin: 10px;" alt="AWS" />
+  <img src="https://img.icons8.com/fluency/40/google-cloud.png" style="margin: 10px;" alt="Google Cloud" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" style="margin: 10px;" alt="Azure DevOps" />
+  <img src="https://img.icons8.com/fluency/40/github.png" style="margin: 10px;" alt="GitHub" />
 </div>
 
 ###
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
- <a href="https://leetcode.com/vishalinipg" target="_blank"><img src="https://leetcard.jacoblin.cool/vishalinipg?theme=dark&font=Roboto%20Flex" alt="LeetCode Stats" height="120" /></a>
+ <a href="https://leetcode.com/vishalinipg" target="_blank"><img src="https://leetcard.jacoblin.cool/vishalinipg?theme=dark&font=Roboto%20Flex" alt="LeetCode Stats" height="130" /></a>
 </div>
 
 ###
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="120"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalinipg&theme=dark&hide_border=false" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="125"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalinipg&theme=dark&hide_border=false" height="125"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125"/>
 </div>
 
 <div align="center">
