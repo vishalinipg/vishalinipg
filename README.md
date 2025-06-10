@@ -1,15 +1,24 @@
-<h3 align="center"> Hi👋 I'm Vishalini P G, An Aspiring Data Scientist from India </h3>
+<h3 align="center"> Hi👋 I'm Vishalini P G, an aspiring Data Scientist from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalinipg) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vishalinipg) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalinipg@gmail.com) 
+<div align="center">
+  <a href="https://linkedin.com/in/vishalinipg" target="_blank"><img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://x.com/vishalinipg" target="_blank"><img src="https://img.icons8.com/fluency/30/twitterx--v1.png" alt="X" /></a>
+  <a href="mailto:vishalinipg@gmail.com"><img src="https://img.icons8.com/fluency/30/gmail.png" alt="Email" /></a>
+</div>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+###
+
+<div align="center">
+  <img src="https://img.icons8.com/fluency/35/java-coffee-cup-logo.png" style="margin: 10px;" alt="Java" />
+  <img src="https://img.icons8.com/fluency/35/python.png" style="margin: 10px;" alt="Python" />
+  <img src="https://img.icons8.com/fluency/35/microsoft-excel-2019.png" style="margin: 10px;" alt="Excel" />
+  <img src="https://img.icons8.com/color/35/amazon-web-services.png" style="margin: 10px;" alt="AWS" />
+  <img src="https://img.icons8.com/fluency/35/google-cloud.png" style="margin: 10px;" alt="Google Cloud" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" style="margin: 10px;" alt="Azure DevOps" />
+  <img src="https://img.icons8.com/fluency/35/github.png" style="margin: 10px;" alt="GitHub" />
+</div>
+
+###
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=vishalinipg&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="120"/>
