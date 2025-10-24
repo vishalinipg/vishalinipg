@@ -1,4 +1,4 @@
-<h3 align="center"> Hi👋 I'm Vishalini P G, an aspiring Data Scientist from India</h3>
+<h3 align="center"> Hi👋 I'm Vishalini P G, an aspiring Software Developer from India</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/vishalinipg" target="_blank"><img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn" /></a>
