@@ -17,6 +17,7 @@
 
 <h3 align="left">🛡️ Badges</h3>
 <div align="center">
+  <a href="https://badger.learning.sap.com/verify/xepuk-fykul-lamul-poves-fepis" target="_blank"><img src="badges/learning-basic-abap-programming.png" height="100" alt="SAP - Learning Basic ABAP Programming" title="SAP - Learning Basic ABAP Programming" /></a>
   <a href="https://www.credly.com/badges/2d1397a3-6eed-4153-950e-c9258d983dec" target="_blank"><img src="badges/cisco-networking-devices-initial-config.png" height="100" alt="Cisco - Networking Devices and Initial Configuration" title="Cisco - Networking Devices and Initial Configuration" /></a>  
   <a href="https://www.credly.com/badges/c7da76ae-6194-4729-b77c-6f7764269fe1" target="_blank"><img src="badges/cisco-networking-basics.png" height="100" alt="Cisco - Networking Basics" title="Cisco - Networking Basics" /></a>
   <a href="https://www.credly.com/badges/169362bb-c580-4c5d-8427-71e0a2f18b77" target="_blank"><img src="badges/aws-educate-machine-learning-foundations.png" height="100" alt="AWS Educate - Machine Learning Foundations" title="AWS Educate - Machine Learning Foundations" /></a>
