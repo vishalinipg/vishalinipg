@@ -17,6 +17,7 @@
 
 <h3 align="left">🛡️ Badges</h3>
 <div align="center">
+  <a href="https://www.credly.com/badges/d91207c0-7653-472a-883a-9d4153568844" target="_blank"><img src="badges/sap-certified-back-end-developer-abap-cloud.png" height="100" alt="SAP Certified - Back-End Developer - ABAP Cloud" title="SAP Certified - Back-End Developer - ABAP Cloud" /></a>
   <a href="https://badger.learning.sap.com/verify/xuriv-nukeg-dudun-buliv-kekid" target="_blank"><img src="badges/practicing-clean-core-extensibility-for-sap-s4hana-cloud.png" height="100" alt="SAP - Practicing Clean Core Extensibility for SAP S/4HANA Cloud" title="SAP - Practicing Clean Core Extensibility for SAP S/4HANA Cloud" /></a>
   <a href="https://badger.learning.sap.com/verify/xysar-nakub-hutap-based-katam" target="_blank"><img src="badges/building-data-models-with-the-abap-dictionary-and-abap-core-data-services.png" height="100" alt="SAP - Building Data Models with the ABAP Dictionary and ABAP Core Data Services" title="SAP - Building Data Models with the ABAP Dictionary and ABAP Core Data Services" /></a>
   <a href="https://badger.learning.sap.com/verify/xudub-nemer-mugef-dugim-teguf" target="_blank"><img src="badges/deepening-your-abap-programming-knowledge.png" height="100" alt="SAP - Deepening Your ABAP Programming Knowledge" title="SAP - Deepening Your ABAP Programming Knowledge" /></a>
